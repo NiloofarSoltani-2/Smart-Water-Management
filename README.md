@@ -1,23 +1,23 @@
 # Smart-Water-Management
 
-# 💧 Smart Water Management – H&S Projectwork 2025
+# Smart Water Management – H&S Projectwork 2025
 
 <details>
-<summary>📌 Project Overview</summary>
+<summary>Project Overview</summary>
 
 A time series analysis and forecasting project focused on helping water supply companies predict water levels across various types of waterbodies. This aims to support sustainable water management decisions based on seasonal and geographical data.
 
 </details>
 
 <details>
-<summary>🌍 Context & Background</summary>
+<summary>Context & Background</summary>
 
 Waterbodies like aquifers, lakes, rivers, and springs behave differently due to their unique characteristics. The project is based on datasets that simulate real-world monitoring challenges, derived from the Acea Smart Water Prediction challenge.
 
 </details>
 
 <details>
-<summary>💾 Data Sources</summary>
+<summary>Data Sources</summary>
 
 - Simulated datasets for:
   - Aquifer
@@ -30,7 +30,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>🎯 Project Goals</summary>
+<summary>Project Goals</summary>
 
 - Predict daily water levels and flow for different waterbody types.
 - Enable data-driven decisions for daily water management and long-term planning.
@@ -39,7 +39,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>🧠 Problem Understanding</summary>
+<summary>Problem Understanding</summary>
 
 - Understanding the non-correlation between different waterbodies.
 - Recognizing the seasonal patterns of replenishment and drainage.
@@ -48,7 +48,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>🔍 Exploratory Data Analysis (EDA)</summary>
+<summary>Exploratory Data Analysis (EDA)</summary>
 
 - Summary statistics and missing values
 - Seasonal trends and periodic patterns
@@ -57,7 +57,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>🛠️ Data Preprocessing</summary>
+<summary>Data Preprocessing</summary>
 
 - Handling missing data
 - Normalization and scaling
@@ -66,7 +66,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>⏱️ Time Series Decomposition & Feature Engineering</summary>
+<summary>Time Series Decomposition & Feature Engineering</summary>
 
 - Seasonal decomposition
 - Lag features and rolling statistics
@@ -75,7 +75,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>📈 Model Selection and Justification</summary>
+<summary>Model Selection and Justification</summary>
 
 - Evaluation of various models:
   - ARIMA
@@ -87,7 +87,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>🧪 Model Training and Validation</summary>
+<summary>Model Training and Validation</summary>
 
 - Cross-validation strategy
 - Hyperparameter tuning
@@ -96,7 +96,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>📊 Performance Metrics and Evaluation</summary>
+<summary>Performance Metrics and Evaluation</summary>
 
 - RMSE, MAE, MAPE
 - Visual comparison: actual vs predicted
@@ -105,7 +105,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>📆 Forecasting and Results Interpretation</summary>
+<summary>Forecasting and Results Interpretation</summary>
 
 - Final forecasts per waterbody
 - Interpretation of predicted values
@@ -114,7 +114,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>🔄 Iterative Improvements and Error Analysis</summary>
+<summary>Iterative Improvements and Error Analysis</summary>
 
 - Model refinement cycles
 - Analysis of outliers and anomalies
@@ -123,7 +123,7 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>💡 Insights and Recommendations</summary>
+<summary>Insights and Recommendations</summary>
 
 - Recommendations for operational decision-making
 - Suggestions for real-world implementation
@@ -132,13 +132,13 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 </details>
 
 <details>
-<summary>🗃️ Project Structure</summary>
+<summary>Project Structure</summary>
 
 
 </details>
 
 <details>
-<summary>🧰 Tools and Technologies Used</summary>
+<summary>Tools and Technologies Used</summary>
 
 - Python
 - Pandas, NumPy
@@ -150,16 +150,16 @@ Waterbodies like aquifers, lakes, rivers, and springs behave differently due to 
 
 </details>
 
-
 <details>
-<summary>🙋 Contributors</summary>
+<summary>Contributors</summary>
 
-- Niloofar Soltani 
+- Niloofar Soltani  
 - Volodymyr Kulyk
+
 </details>
 
 <details>
-<summary>📚 References</summary>
+<summary>References</summary>
 
 
 </details>
